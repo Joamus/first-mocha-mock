@@ -1,0 +1,17 @@
+{
+  "name": "tdd-assignemnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grade-conversion.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
